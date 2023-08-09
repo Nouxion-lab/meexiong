@@ -64,8 +64,8 @@ int main() {
             case 3:
                 rectangular();
                 break;
-            case 4:
                 cylinder();
+            case 4:
                 break;
 			default:
 				printf("Invalid choice.\n");
